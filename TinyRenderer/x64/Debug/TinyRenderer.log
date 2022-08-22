@@ -1,0 +1,56 @@
+﻿  TinyRenderer.cpp
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\geometry.h(130,21): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(56,21): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(57,22): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(58,21): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(59,22): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(84,17): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(85,17): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(111,55): warning C4305: “参数”: 从“double”到“float”截断
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(123,41): warning C4305: “+=”: 从“double”到“float”截断
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(124,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(125,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(135,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(147,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(255,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(256,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(257,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(258,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(273,83): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(273,57): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(283,111): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(283,94): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(283,77): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  TinyRenderer.vcxproj -> G:\Learning Materials\C++\TinyRenderer\x64\Debug\TinyRenderer.exe

@@ -1,0 +1,236 @@
+﻿  Rasterization.cpp
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(54,16): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(55,16): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(56,16): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(57,16): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(58,16): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(59,16): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(81,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(82,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(83,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(84,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(88,28): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(88,25): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(99,37): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(99,32): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(108,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(109,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(110,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(111,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(117,28): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(117,25): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(151,62): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(151,52): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(163,104): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(163,83): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(163,62): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(163,41): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(163,36): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(183,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(184,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(185,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(186,18): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(192,28): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(192,25): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(253,100): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(253,79): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(253,58): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(253,37): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(253,32): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\geometry.h(28,78): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\geometry.h(28): message : 在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(24): message : 查看对正在编译的函数 模板 实例化“Vec2<int> Vec2<int>::operator *(float) const”的引用
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\Rasterization.cpp(13): message : 查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\geometry.h(28,71): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+  TinyRenderer.cpp
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(81,41): warning C4305: “+=”: 从“double”到“float”截断
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(82,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(83,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(93,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(105,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(213,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(214,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(215,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(216,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(231,83): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(231,57): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(241,111): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(241,94): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\TinyRenderer.cpp(241,77): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  geometry.cpp
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\geometry.cpp(8,66): warning C4244: “初始化”: 从“const t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\geometry.cpp(8,74): warning C4244: “初始化”: 从“const t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\geometry.cpp(8,82): warning C4244: “初始化”: 从“const t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+  model.cpp
+G:\Learning Materials\C++\TinyRenderer\TinyRenderer\model.cpp(52,17): warning C4101: “itrash”: 未引用的局部变量
+  正在生成代码...
+TinyRenderer.obj : error LNK2019: 无法解析的外部符号 "public: struct Vec3<float> __thiscall Vec3<float>::cross(struct Vec3<float> &)" (?cross@?$Vec3@M@@QAE?AU1@AAU1@@Z)，函数 "class Matrix __cdecl LookAt(struct Vec3<float>,struct Vec3<float>,struct Vec3<float>)" (?LookAt@@YA?AVMatrix@@U?$Vec3@M@@00@Z) 中引用了该符号
+G:\Learning Materials\C++\TinyRenderer\Debug\TinyRenderer.exe : fatal error LNK1120: 1 个无法解析的外部命令
